@@ -29,7 +29,7 @@
     <div class="container-fluid">
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container-fluid all">
+            <div class="container-fluid all"> 
                 <div class="d-flex">
                     <a class="navbar-brand" href="#">BLOOM<span style="color: #f59e0b;">SHOP</span></a>
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
